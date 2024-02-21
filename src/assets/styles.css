@@ -25,6 +25,10 @@ body {
     background-color: #5260ff;
 }
 
+.text-tertiary {
+    color: #5260ff;
+}
+
 .item {
     display: flex;
     position: relative;

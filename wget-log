@@ -1,0 +1,22 @@
+--2024-02-21 13:35:50--  https://github.com/kaangiray26/vuejs-template/archive/refs/tags/v1.0.8.zip
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving github.com (github.com)... 140.82.121.3
+Connecting to github.com (github.com)|140.82.121.3|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/kaangiray26/vuejs-template/zip/refs/tags/v1.0.8 [following]
+--2024-02-21 13:35:50--  https://codeload.github.com/kaangiray26/vuejs-template/zip/refs/tags/v1.0.8
+Resolving codeload.github.com (codeload.github.com)... 140.82.121.9
+Connecting to codeload.github.com (codeload.github.com)|140.82.121.9|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-02-21 14:03:16--  (try: 2)  https://codeload.github.com/kaangiray26/vuejs-template/zip/refs/tags/v1.0.8
+Connecting to codeload.github.com (codeload.github.com)|140.82.121.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/zip]
+Saving to: ‘v1.0.8.zip’
+
+     0K .........                                              29.7M=0s
+
+2024-02-21 14:03:16 (29.7 MB/s) - ‘v1.0.8.zip’ saved [10050]
+
